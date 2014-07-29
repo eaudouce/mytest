@@ -4,7 +4,7 @@
  *
  * @auth degang.shen
  */
-class Gjsairps001Controller extends Controller
+class Gjsairps002Controller extends Controller
 {
     /**
      * @var string way url
